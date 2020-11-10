@@ -1,2 +1,1 @@
-# Reddit clone
-# Second
+# Reddit clone.
