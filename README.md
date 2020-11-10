@@ -1,2 +1,2 @@
 # Reddit clone
-# Second phas
+# Second ph
